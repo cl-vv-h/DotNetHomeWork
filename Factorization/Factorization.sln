@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorization", "Factorization\Factorization.csproj", "{CCDD96B9-4875-41CA-8009-AD8FADEF0040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDD96B9-4875-41CA-8009-AD8FADEF0040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDD96B9-4875-41CA-8009-AD8FADEF0040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDD96B9-4875-41CA-8009-AD8FADEF0040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDD96B9-4875-41CA-8009-AD8FADEF0040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7E3F900-80A8-492D-9ECC-0F71734F9B9E}
+	EndGlobalSection
+EndGlobal

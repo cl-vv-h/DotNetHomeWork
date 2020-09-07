@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UQkD1iTq8/z0vSN130CUU2S/4rb1yc5wDsyn1Dv4wLga6ohBrCFHahmGd+4VSfBb/vi4MHvAGWUBJeQ+TKlGog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\cl-vv-h\\DotNetHomeWork\\Factorization\\Factorization\\Factorization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
